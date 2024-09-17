@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @kushyme
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Projects
+- 📫 How to reach me Twitter: @venoxOW
+- ⚡ Fun fact: I live in Germany
